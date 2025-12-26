@@ -42,6 +42,10 @@ adb install screenrecorder_customized-aligned-debugSigned.apk
 
 ## 🚀 Usage
 
+#Important Note (Do not Disregard or else it wont work!)
+Just press and hold the Screen Recorder tile in Quick Settings.
+Once it opens, go to Recent apps, tap the Recorder app icon, and allow all required permissions.
+
 ### Starting a Recording
 
 1. Open **Screen Recorder** app
